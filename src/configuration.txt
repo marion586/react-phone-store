@@ -1,0 +1,6 @@
+- setup file https://github.com/john-smilga/setup-filese-react-phone-e-commerce-project
+
+-npm install --save bootstrap
+-opy of fontawesom and google font
+
+-iconfinder.com
